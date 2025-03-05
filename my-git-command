@@ -1,1 +1,1 @@
- git init git status git add git commit -m git restore
+ git init git status git add git commit -m git restore git push git clone also learn about fork 
